@@ -1,0 +1,1 @@
+[{"classid": 1, "classname": "konspirasi", "teacher": [1], "students": [1], "classworks": [2]}, {"classid": 2, "classname": "backend", "teacher": [1], "students": [2, 1], "classworks": [5, 11]}, {"classid": 3, "classname": "frontend", "teacher": [1], "students": [], "classworks": [3]}]
